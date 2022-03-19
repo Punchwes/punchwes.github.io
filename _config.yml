@@ -1,6 +1,7 @@
-# Name of website
-title: Qiwei Peng
+author:
+  name:  Qiwei Peng
+  about: |
+    NLPer.
 
-# Your name to show in the footer
-author: Qiwei Pengg
+    This is another paragraph.
 theme: jekyll-theme-minimal
