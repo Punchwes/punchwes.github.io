@@ -1,3 +1,6 @@
-url: https://punchwes.github.io
-baseurl:
+# Name of website
+title: Qiwei Peng
+
+# Your name to show in the footer
+author: Qiwei Pengg
 theme: jekyll-theme-minimal
