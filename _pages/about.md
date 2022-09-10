@@ -21,9 +21,9 @@ social: false  # includes social icons at the bottom of the page
 
 Email: qiwei.peng@sussex.ac.uk
 
-I am currently a third year **PhD student** at the **University of Sussex** supervised by Prof. David Weir and Dr. Julie Weeds. Before joining Sussex, I obtained my MSc from the **University of Edinburgh** under supervision of Prof. Bonnie Webber and Dr. Thomas Kober (2017-18) and BSc in Computer Science from **Sichuan University** (2013-2017). 
+I am currently a third year **PhD student** at the **University of Sussex** supervised by Prof. David Weir and Dr. Julie Weeds. Before joining Sussex, I obtained my MSc from the **University of Edinburgh** under supervision of Prof. Bonnie Webber and Dr. Thomas Kober (2017-18). I obtained BEng in Computer Science from **Sichuan University** (2013-2017). 
 
-Research interest: Paraphrase Identification, Sentence Meaning Comparison, out-of-distribution / Domain Generalization.
+Research interest: Paraphrase Identification, Sentence Meaning Comparison, Domain Generalization.
 
 Apart from research, I enjoy watching anime and playing video games.
 
