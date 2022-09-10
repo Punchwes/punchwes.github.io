@@ -15,10 +15,10 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
-[TAG Lab](https://www.sussex.ac.uk/research/centres/ai-research-group/research/nlp),  
-[University of Sussex, School of Informatics](https://www.sussex.ac.uk/), UK
+[TAG Lab](https://www.sussex.ac.uk/research/centres/ai-research-group/research/nlp)
+[University of Sussex, School of Informatics, UK](https://www.sussex.ac.uk/)
 
-Email: qiwei.peng[at]sussex.ac.uk
+Email: qiwei.peng\@sussex.ac.uk
 
 
 I am currently a third year PhD student at the University of Sussex. Before joining Sussex, I obtained my MSc from the University of Edinburgh under supervision of Prof. Bonnie Webber and Dr. Thomas Kober (2017-18) and a BSc from Sichuan University (2013-2017). 
