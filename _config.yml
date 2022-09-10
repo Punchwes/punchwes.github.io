@@ -19,7 +19,7 @@ icon:  # the emoji used as the favicon (alternatively, provide image name in /as
 
 url: https://punchwes.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
-last_updated: false # set to true if you want to display last updated in the footer
+last_updated: true # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
 # -----------------------------------------------------------------------------
@@ -47,10 +47,10 @@ rss_icon: false
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: true
+footer_fixed: false
 
 # Dimensions
-max_width: 800px
+max_width: 1000px
 
 # TODO: add layout settings (single page vs. multi-page)
 
@@ -84,7 +84,6 @@ dblp_url: # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
 
 contact_note: >
-  Wakawaka
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -105,9 +104,9 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # blog_description: a simple whitespace theme for academics
 # permalink: /blog/:year/:title/
 
-# # Pagination
-# pagination:
-#   enabled: true
+# Pagination
+pagination:
+  enabled: true
 
 # # Comments
 # disqus_shortname: al-folio # put your disqus shortname
@@ -144,6 +143,7 @@ news_limit: 5 # leave blank to include all the news in the `_news` folder
 # Markdown and syntax highlight
 markdown: kramdown
 highlighter: rouge
+highlight_theme: github
 kramdown:
   input: GFM
   syntax_highlighter_opts:
@@ -220,8 +220,8 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 
 scholar:
 
-  last_name: Einstein
-  first_name: [Albert, A.]
+  last_name: Peng
+  first_name: Qiwei
 
   style: apa
   locale: en
