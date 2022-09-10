@@ -1,12 +1,14 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching
 description: Materials for courses you taught. Replace this text with your description.
 nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+I have been a teaching assistant in various modules, both at undergraduate and post-graduate level. These include:
 
-Organize your courses by years, topics, or universities, however you like!
+Natural Language Processing
+Natural Language Engineering
+Apllied/Advance Natural Language Processing
