@@ -16,12 +16,13 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 [TAG Lab](https://www.sussex.ac.uk/research/centres/ai-research-group/research/nlp)
+
 [University of Sussex, School of Informatics, UK](https://www.sussex.ac.uk/)
 
-Email: qiwei.peng\@sussex.ac.uk
+Email: qiwei.peng@sussex.ac.uk
 
 
-I am currently a third year PhD student at the University of Sussex. Before joining Sussex, I obtained my MSc from the University of Edinburgh under supervision of Prof. Bonnie Webber and Dr. Thomas Kober (2017-18) and a BSc from Sichuan University (2013-2017). 
+I am currently a third year **PhD student** at the **University of Sussex** supervised by Prof. David Weir and Dr. Julie Weeds. Before joining Sussex, I obtained my MSc from the **University of Edinburgh** under supervision of Prof. Bonnie Webber and Dr. Thomas Kober (2017-18) and BSc in Computer Science from **Sichuan University** (2013-2017). 
 
 Research interest: Paraphrase Identification, Sentence Meaning Comparison, out-of-distribution / Domain Generalization.
 
