@@ -508,7 +508,7 @@ footer.sticky-bottom {
           }
         }
         .award {
-          position: fixed;
+          position: static;
           top: 20px; 
           right: 55px;
           color: var(--global-theme-color) !important;
