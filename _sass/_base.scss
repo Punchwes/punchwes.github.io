@@ -487,7 +487,11 @@ footer.sticky-bottom {
 
     li {
       margin-bottom: 1rem;
-
+      .preview {
+        width: 100%;
+        min-width: 80px;
+        max-width: 200px;
+      }
       .abbr {
         height: 2rem;
         margin-bottom: 0.5rem;
@@ -504,7 +508,8 @@ footer.sticky-bottom {
           }
         }
         .award {
-
+          position: relative;
+          top: 10px;
           color: var(--global-theme-color) !important;
           border: 1px solid var(--global-theme-color);
         }
