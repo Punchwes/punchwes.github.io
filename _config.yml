@@ -92,7 +92,7 @@ google_analytics:  # your Goole Analytics measurement ID (format: G-XXXXXXXXXX)
 panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 
 google_site_verification: jER8dbRd1R8QR6v5c12Xn7CbV9yY1fc_0TjgZInwZok # your google-site-verification ID (Google Search Console)
-bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
+bing_site_verification: C4B5B0E1EF1851CC5DACD0114EBD89BD # out your bing-site-verification ID (Bing Webmaster)
 
 # -----------------------------------------------------------------------------
 # Blog
