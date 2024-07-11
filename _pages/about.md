@@ -9,7 +9,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address:
+  address: Contact: qipe@di.ku.dk
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -17,13 +17,13 @@ social: true  # includes social icons at the bottom of the page
 ---
 [Coastal NLP Group](https://coastalcph.github.io/)
 
-[University of Copenhagen, Department of Computer Science, Denmark](https://di.ku.dk/english/)
+[University of Copenhagen, Denmark](https://di.ku.dk/english/)
 
-Email: qipe@di.ku.dk
+<!-- Contact: qipe@di.ku.dk -->
 
 I am currently a Postdoc researcher at [Coastal NLP Group](https://coastalcph.github.io/) at the **University of Copenhagen**, working with Prof. Anders Søggard. I obtained my PhD from the **University of Sussex**, supervised by Prof. David Weir and Dr. Julie Weeds (2019-2023). Before joining Sussex, I obtained my MSc in Artificial Intelligence from the **University of Edinburgh** under supervision of Prof. Bonnie Webber and Dr. Thomas Kober (2017-18). I obtained BEng in Computer Science from **Sichuan University** (2013-2017). 
 
-Research interest: Paraphrase Identification, Text Meaning Comparison, OOD Generalization, Multilingual IR, Natural Language Understanding.
+Research interest: Crosslingual Generalization, Representation Learning, Trustworthy NLP
 
 Apart from research, I enjoy watching anime and playing video games.
 
