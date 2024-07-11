@@ -33,6 +33,11 @@ layout: default
               {{ page.profile.address }}
             </div>
             {%- endif %}
+            {%- if page.social %}
+            <div class="navbar-brand social">
+              {% include social.html %}
+            </div>
+            {%- endif %}
           </div>
           {%- endif %}
 
