@@ -15,7 +15,6 @@ I co-organise the [SemEval-2025 Task 7: Multilingual and Crosslingual Fact-Check
 ## Reviewer
 ***
 
-I have also served as reviewer for different conferences and Journals:
 ACL Rolling Review (since 2022), AAAI2024, EMNLP2023, ACL2023, AAAI2023, COLING2022, Connection Science, \*SEM 2020
 
 ## Teaching
