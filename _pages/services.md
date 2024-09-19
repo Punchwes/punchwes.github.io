@@ -10,7 +10,17 @@ nav_order: 5
 ## Workshop Organizer
 ***
 
-I co-organise the [SemEval-2025 Task 7: Multilingual and Crosslingual Fact-Checked Claim Retrieval](https://kinit-sk.github.io/semeval_2025/) with KInIT and DFKI.
+I co-organise the [SemEval-2025 Task 7: Multilingual and Crosslingual Fact-Checked Claim Retrieval](https://disai.eu/semeval-2025/) with KInIT and DFKI. 
+
+## Invited Talk
+
+- Evaluating Cross-Lingual Generalization in Multilingual LLMs  
+  - at Slovak NLP Community Meetup, September, 2024, Slovakia    
+
+
+- Cross-lingual Alignment and Case Studies
+  - at Kempelen Institute of Intelligent Technologies (KInIT), September, 2024, Bratislava   
+ 
 
 ## Reviewer
 ***
@@ -25,3 +35,5 @@ I have been a teaching assistant at the University of Sussex in various modules 
 - Natural Language Engineering
 - Apllied/Advance Natural Language Processing
 - Machine Learning 
+
+
