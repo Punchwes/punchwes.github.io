@@ -35,6 +35,5 @@ I have been a teaching assistant at the University of Sussex in various modules 
 - Natural Language Processing
 - Natural Language Engineering
 - Apllied/Advance Natural Language Processing
-- Machine Learning 
 
 

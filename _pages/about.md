@@ -21,11 +21,11 @@ social: true  # includes social icons at the bottom of the page
 
 <!-- Contact: qipe@di.ku.dk -->
 
-I am currently a Postdoc researcher at [Coastal NLP Group](https://coastalcph.github.io/) at the **University of Copenhagen**, working with Prof. Anders Søggard. I obtained my PhD from the **University of Sussex**, supervised by Prof. David Weir and Dr. Julie Weeds (2019-2023). Before joining Sussex, I obtained my MSc in Artificial Intelligence from the **University of Edinburgh** under supervision of Prof. Bonnie Webber and Dr. Thomas Kober (2017-18). I obtained BEng in Computer Science from **Sichuan University** (2013-2017). 
+I am currently a Postdoc researcher at [Coastal NLP Group](https://coastalcph.github.io/) at the **University of Copenhagen**, working with Prof. Anders Søggard. I obtained my PhD from the **University of Sussex**, supervised by Prof. David Weir and Dr. Julie Weeds (2019-2023). Before joining Sussex, I obtained my MSc in Natural Language Processing from the **University of Edinburgh** under supervision of Prof. Bonnie Webber and Dr. Thomas Kober (2017-18). I obtained BEng in Computer Science from **Sichuan University** (2013-2017). 
 
 **Research interest**: Crosslingual Generalization, Representation Learning, Trustworthy NLP
 
-Apart from research, I enjoy reading novels and playing video games.
+Apart from research, I enjoy reading novels and playing video games.  
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 
