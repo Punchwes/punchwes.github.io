@@ -15,14 +15,15 @@ I co-organise the [SemEval-2025 Task 7: Multilingual and Crosslingual Fact-Check
 ## Invited Talk
 ***
 
+- "Cross-lingual Alignment and Transfer"
+  - at Research Connections social @ CohereForAI's community, October, 2024 (C4AI)   
+
 - "Evaluating Cross-Lingual Generalization in Multilingual LLMs"  
   - Keynote talk at Slovak NLP Community Meetup, September, 2024, Slovakia            
 
-
-- "Cross-lingual Alignment and Case Studies"
-  - at Kempelen Institute of Intelligent Technologies (KInIT), September, 2024, Bratislava      
+- "Cross-lingual Alignment and Case Studies" 
+  - at Kempelen Institute of Intelligent Technologies (KInIT), September, 2024, Bratislava     
   
-
 ## Reviewer
 ***
 
